@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is our organization all about?
+🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
 🌈 Contribution guidelines - how can the community get involved?
 
