@@ -2,10 +2,10 @@
 
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Contribution guidelines - To get involved in the community, check out the discussion forum and participate in the discussions.
 
-👩‍💻 Useful resources - where can the community find our docs? Is there anything else the community should know?
+👩‍💻 Useful resources - you can find our docs in this repo, and in the other doc repos.
 
-🍿 Fun facts - what does our team eat for breakfast?
+🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche, of course. 
 
 🧙 Remember, you can do mighty things with the power of [hivebot](https://hivebot.co)
