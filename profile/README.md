@@ -1,3 +1,6 @@
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Discord](https://img.shields.io/discord/1153355258236502046)](https://discord.com/invite/Gjw9sqYuUY)
+
 ## Hi there 👋
 
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
