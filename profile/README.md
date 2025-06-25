@@ -10,7 +10,7 @@
 
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
-🌈 Contribution guidelines - To get involved in the community, check out the discussion forum and participate in the discussions.
+🌈 Contribution guidelines - To get involved in the community, join the Discord, and check out the [discussion](https://github.com/orgs/sync-different/discussions) forum and participate in the discussions.
 
 👩‍💻 Useful resources - you can find our docs in this repo, and in the other doc repos.
 
