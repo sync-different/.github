@@ -18,3 +18,7 @@
 🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche, of course. 
 
 🧙 Remember, you can do mighty things with the power of [hivebot](https://hivebot.co)
+
+<p align=center">
+  <a href="https://github.com/sync-different/alt-core">alt-core</a>
+</p>
