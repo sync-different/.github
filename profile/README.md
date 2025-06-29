@@ -1,5 +1,4 @@
 <h1 align="center">
-  <br>
   <img src="https://github.com/sync-different/.github/blob/main/alt-logo.png" alt="Alterante Core" width="250">
   <h2 align="center">Welcome to the Alterante community!</h2>
 </h1>
