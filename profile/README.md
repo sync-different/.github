@@ -9,6 +9,7 @@
 
 ## Hi there 👋
 
+<p>
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
 🌈 Contribution guidelines - To get involved in the community, join us on [Discord](https://discord.com/invite/Gjw9sqYuUY), and also check out the [discussion](https://github.com/orgs/sync-different/discussions) forum and participate in the discussions.
@@ -18,6 +19,8 @@
 🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche, of course. 
 
 🧙 Remember, you can do mighty things with the power of [hivebot](https://hivebot.co)
+
+</p>
 
 <p align=center">
   <a href="https://github.com/sync-different/alt-core">alt-core</a>
