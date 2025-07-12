@@ -13,7 +13,7 @@
 
 🌈 Contribution guidelines - Check out the contribution [guidelines](https://github.com/sync-different/alt-core/blob/main/CONTRIBUTING.md).
 
-👩‍💻 Useful resources - you can find our docs in this repo, and in our doc repos. [alt-core-docs](https://www.github.com/sync-different/alt-core-docs)
+👩‍💻 Useful resources - you can find our docs in this repo, and in our doc repos [alt-core-docs](https://www.github.com/sync-different/alt-core-docs)
 
 🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche, of course. 
 
