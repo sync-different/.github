@@ -15,7 +15,7 @@
 
 👩‍💻 Useful resources - you can find our docs in this repo, and in our doc repos [alt-core-docs](https://www.github.com/sync-different/alt-core-docs)
 
-🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche, of course. 
+🍿 Fun facts - what does our team eat for breakfast? Mate 🧉 and dulce de leche 🫙 (empty jar), of course. 
 
 🧙 Remember, you can do mighty things with the power of [hivebot](https://hivebot.co)
 
