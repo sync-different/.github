@@ -9,7 +9,9 @@
 <p>
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
-🌈 Contribution guidelines - To get involved in the community, join us on [Discord](https://discord.com/invite/Gjw9sqYuUY), and also check out the [discussion](https://github.com/orgs/sync-different/discussions) forum and participate in the discussions.
+Community - Join our community on [Discord](https://img.shields.io/discord/1153355258236502046)](https://discord.com/invite/Gjw9sqYuUY).
+
+🌈 Contribution guidelines - Check out the contribution [guidelines](https://github.com/sync-different/alt-core/blob/main/CONTRIBUTING.md).
 
 👩‍💻 Useful resources - you can find our docs in this repo, and in our doc repos. [alt-core-docs](https://www.github.com/sync-different/alt-core-docs)
 
