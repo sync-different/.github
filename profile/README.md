@@ -22,5 +22,5 @@
 <h1 align=center">
   <p align="center"><a href="https://github.com/sync-different/alt-core">alt-core</a></p>
   ·
-  <a href="https://github.com/sync-different/alt-core-docs">alt-core-docs</a>
+  <p align="center"><a href="https://github.com/sync-different/alt-core-docs">alt-core-docs</a></p>
 </h1>
