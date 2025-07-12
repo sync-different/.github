@@ -19,8 +19,8 @@
 
 </p>
 
-<p align=center">
+<h1 align=center">
   <a href="https://github.com/sync-different/alt-core">alt-core</a>
   ·
   <a href="https://github.com/sync-different/alt-core-docs">alt-core-docs</a>
-</p>
+</h1>
