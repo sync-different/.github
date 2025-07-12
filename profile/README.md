@@ -26,5 +26,7 @@
     <a href="https://github.com/sync-different/alt-core">alt-core</a>
     ·
     <a href="https://github.com/sync-different/alt-core-docs">alt-core-docs</a>
+    ·
+    <a href="https://www.hivebot.co/faq.html">faq</a>
   </p>
 </h2>
