@@ -9,7 +9,7 @@
 <p>
 🙋‍♀️ A short introduction - At Alterante, our mission is to advance data privacy and security for businesses, organizations, and individuals.
 
-Community - Join our community on [Discord](https://img.shields.io/discord/1153355258236502046)](https://discord.com/invite/Gjw9sqYuUY).
+Community - Join our community on [Discord](https://discord.com/invite/Gjw9sqYuUY).
 
 🌈 Contribution guidelines - Check out the contribution [guidelines](https://github.com/sync-different/alt-core/blob/main/CONTRIBUTING.md).
 
